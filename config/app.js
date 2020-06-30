@@ -218,8 +218,8 @@ module.exports = {
     */
     file: {
       driver: 'file',
-      name: 'ecommerce_adonis',
-      filename: 'ecommerce_adonis.log',
+      name: 'adonis_ecommerce',
+      filename: 'adonis_ecommerce.log',
       level: 'info'
     }
   },
